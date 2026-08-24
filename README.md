@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/tursu-model-sheet.png" width="100%" alt="Turşu character model sheet">
+  <img src="./tursu1.png" width="100%" alt="Turşu character model sheet">
 </p>
 
 <h1 align="center">Merhaba, ben Ali 👋</h1>
@@ -33,7 +33,7 @@
       </p>
     </td>
     <td width="32%" align="center" valign="middle">
-      <img src="./assets/tursu.png" width="150" alt="Turşu mascot">
+      <img src="./tursu bireysel.png" width="150" alt="Turşu mascot">
       <br>
       <sub><b>TURŞU</b> · sessiz kod gözlemcisi</sub>
     </td>
@@ -61,6 +61,3 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>Turşu buradaydı. 🥒</sub>
-</p>
